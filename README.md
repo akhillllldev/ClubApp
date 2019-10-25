@@ -10,7 +10,7 @@
   git checkout -b feature/akhillllldev
   ```
 - After making changes use this command to add the changes: `git add filename`, and then `git commit -m "message here"`.
-- Push the branch to GitHub
+- Push the branch to GitHub: `git push origin branchname`
   ```bash
   git push origin feature/akhillllldev
   ```
