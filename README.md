@@ -15,5 +15,11 @@
   git push origin feature/akhillllldev
   ```
 - Create a pull request, and wait for Pull Request to get merged.
+
+---
+
+## Copyright and License
+
+This project is licensed under the [MIT](https://github.com/akhillllldev/ClubApp/blob/master/LICENSE) License.
            
         
