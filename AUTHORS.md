@@ -2,5 +2,5 @@
 
 - Ritwik Badola
 - Priyam Sahoo
-- Agnibha Chatterjee
+- Agnibha Chatterjee (Project Lead)
 - Akhil Surendran
